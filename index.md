@@ -41,6 +41,6 @@ model <- lm(dist ~ speed, data = cars)
 
 ## Conclusion
 Sensor modules market shows significant grow and Data science applications is essensial part of it.
-!(1.jpg)
+![width](1.png)
 http://image-sensors-world.blogspot.com/2015/12/yole-report-on-autonomous-vehicles.html
 
